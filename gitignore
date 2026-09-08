@@ -1,0 +1,64 @@
+# ---- Processing work stays out of git ----
+# CoastSat downloads and intermediate files
+**/coastsat_data/
+**/coastsat_output/
+**/jpg_files/
+**/S2/
+**/L5/
+**/L7/
+**/L8/
+**/L9/
+*.pkl
+
+# Drone / raster / point cloud processing
+**/drone/
+**/metashape/
+**/DEM/
+*.tif
+*.tiff
+*.laz
+*.las
+*.psx
+*.files/
+
+# ERA5 raw downloads (keep only the subset .nc in data/era5/)
+**/era5_raw/
+*.grib
+*.grib2
+*.zip
+
+# ---- Images and figures ----
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+figures/
+
+# ---- Analysis outputs / scratch ----
+outputs/
+results/
+scratch/
+*.xlsx
+*.h5
+
+# ---- Python / Jupyter / VS Code ----
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+
+# ---- Credentials ----
+.cdsapirc
+.earthengine/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Keep the shared processed data ----
+!data/**/*.csv
+!data/**/*.geojson
+!data/**/*.nc
+!data/README.md
