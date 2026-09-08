@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "quinta_playa_transects_short",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32715" } },
+"features": [
+{"type":"Feature","properties":{"name":"B6"},"geometry":{"type":"LineString","coordinates":[[714246.72250959998928,9889324.287109600380063],[714210.698524000123143,9888629.290324000641704]]}},
+{"type":"Feature","properties":{"name":"C2"},"geometry":{"type":"LineString","coordinates":[[714569.097599200205877,9889237.795107999816537],[714495.85859800002072,9888546.134320000186563]]}},
+{"type":"Feature","properties":{"name":"C1"},"geometry":{"type":"LineString","coordinates":[[714395.074087999761105,9889285.497354401275516],[714371.930869999923743,9888590.4001360014081]]}},
+{"type":"Feature","properties":{"name":"B4"},"geometry":{"type":"LineString","coordinates":[[713767.68610000028275,9889323.328829599544406],[713836.477000000188127,9888630.736724000424147]]}},
+{"type":"Feature","properties":{"name":"B5"},"geometry":{"type":"LineString","coordinates":[[714023.836503200116567,9889339.952826399356127],[714018.787058000103571,9888643.971165999770164]]}},
+{"type":"Feature","properties":{"name":"A1"},"geometry":{"type":"LineString","coordinates":[[712517.759146400145255,9889004.32612800039351],[712862.122616,9888398.663969999179244]]}},
+{"type":"Feature","properties":{"name":"A2"},"geometry":{"type":"LineString","coordinates":[[712780.182420799741521,9889099.944515200331807],[712945.149002,9888423.921838000416756]]}},
+{"type":"Feature","properties":{"name":"B1"},"geometry":{"type":"LineString","coordinates":[[713000.816272799856961,9889154.164348000660539],[713179.376081999973394,9888481.459119999781251]]}},
+{"type":"Feature","properties":{"name":"B2"},"geometry":{"type":"LineString","coordinates":[[713194.12244960013777,9889205.474701600149274],[713372.682223999989219,9888532.76940399967134]]}},
+{"type":"Feature","properties":{"name":"B3"},"geometry":{"type":"LineString","coordinates":[[713527.727436799788848,9889283.45318160019815],[713652.243541999720037,9888598.68185400031507]]}}
+]
+}
