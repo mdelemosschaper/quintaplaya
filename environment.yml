@@ -1,0 +1,13 @@
+name: quintaplaya
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - netcdf4
+  - geopandas
+  - matplotlib
+  - ipykernel
