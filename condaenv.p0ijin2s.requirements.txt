@@ -1,0 +1,6 @@
+loess
+bluemath-tk
+lazrs
+py4dgeo
+pooch
+jupyter
