@@ -13,8 +13,10 @@ dependencies:
   - ipykernel
   - laspy
   - rasterio
-  - math
   - pip:
     - loess          # Cappellari (2013) loess_1d / loess_2d — pip only
     - bluemath-tk    # Bluemath (2023) bluemath-tk — pip only
-
+    - lazrs          # LAZ (compressed LAS) decompression backend for laspy
+    - py4dgeo        # point cloud change detection: M3C2, registration, 4D OBC
+    - pooch          # test-data download helper used by py4dgeo's own tutorials
+    - jupyter        # notebook server support (ipykernel above is also required)
