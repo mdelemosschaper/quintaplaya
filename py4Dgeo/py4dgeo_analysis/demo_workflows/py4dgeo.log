@@ -1,0 +1,2 @@
+[2026-09-14 11:04:50][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/test_data_icp.zip.unzip/test_data_icp/tls_rockfall_20190619_reference_stableparts.laz'
+[2026-09-14 11:04:51][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/test_data_icp.zip.unzip/test_data_icp/tls_rockfall_20220921_shifted_stableparts.laz'

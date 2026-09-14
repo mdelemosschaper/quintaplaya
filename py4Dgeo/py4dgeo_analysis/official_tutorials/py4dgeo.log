@@ -1,0 +1,30 @@
+[2026-09-10 14:24:22][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_0.laz'
+[2026-09-10 14:24:22][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_1.laz'
+[2026-09-10 14:26:40][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 14:27:30][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_0.laz'
+[2026-09-10 14:27:30][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_1.laz'
+[2026-09-10 14:28:07][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 14:34:20][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_0.laz'
+[2026-09-10 14:34:20][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_1.laz'
+[2026-09-10 14:34:23][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 14:52:14][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t1.xyz'
+[2026-09-10 14:52:14][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t2.xyz'
+[2026-09-10 14:52:40][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 14:53:03][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t1.xyz'
+[2026-09-10 14:53:03][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t2.xyz'
+[2026-09-10 14:53:05][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 15:16:22][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_0.laz'
+[2026-09-10 15:16:22][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_1.laz'
+[2026-09-10 15:16:29][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 18:07:48][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t1.xyz'
+[2026-09-10 18:07:48][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/plane_horizontal_t2.xyz'
+[2026-09-10 18:08:11][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 18:08:11][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 18:13:28][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/ahk_2017_652900_5189100_gnd_subarea.laz'
+[2026-09-10 18:13:28][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/ahk_2018A_652900_5189100_gnd_subarea.laz'
+[2026-09-10 18:13:50][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/extracted/usage_data/ahk_cp_652900_5189100_subarea.laz'
+[2026-09-10 18:13:53][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 18:13:53][INFO] Building KDTree structure with leaf parameter 10
+[2026-09-10 18:26:05][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_0.laz'
+[2026-09-10 18:26:05][INFO] Reading point cloud from file '/Users/giovannilivibacci/Library/Caches/py4dgeo/trier_sim.zip.unzip/trier_sim_epoch_1.laz'
+[2026-09-10 18:26:21][INFO] Building KDTree structure with leaf parameter 10
