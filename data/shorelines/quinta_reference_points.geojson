@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "quinta_reference_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32715" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "B6", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 714221.936339981853962, 9888846.097150187939405 ] } },
+{ "type": "Feature", "properties": { "name": "B6", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 714224.807516740052961, 9888901.489650061354041 ] } },
+{ "type": "Feature", "properties": { "name": "C2", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 714525.528173926402815, 9888826.330416731536388 ] } },
+{ "type": "Feature", "properties": { "name": "C2", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 714527.087347478140146, 9888841.055074220523238 ] } },
+{ "type": "Feature", "properties": { "name": "C1", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 714380.333950930740684, 9888842.783282591030002 ] } },
+{ "type": "Feature", "properties": { "name": "C1", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 714381.20957627275493, 9888869.082336576655507 ] } },
+{ "type": "Feature", "properties": { "name": "B4", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 713818.028364465106279, 9888816.479014487937093 ] } },
+{ "type": "Feature", "properties": { "name": "B4", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 713813.090958528919145, 9888866.189199607819319 ] } },
+{ "type": "Feature", "properties": { "name": "B5", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 714020.178626325796358, 9888835.775610942393541 ] } },
+{ "type": "Feature", "properties": { "name": "B5", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 714020.487369121052325, 9888878.330647148191929 ] } },
+{ "type": "Feature", "properties": { "name": "A1", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 712800.58506365143694, 9888506.895446458831429 ] } },
+{ "type": "Feature", "properties": { "name": "A1", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 712786.676459898240864, 9888531.357724567875266 ] } },
+{ "type": "Feature", "properties": { "name": "A2", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 712912.510661932639778, 9888557.671703403815627 ] } },
+{ "type": "Feature", "properties": { "name": "A2", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 712903.84945200860966, 9888593.164797084406018 ] } },
+{ "type": "Feature", "properties": { "name": "B1", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 713136.6212204991607, 9888642.533546449616551 ] } },
+{ "type": "Feature", "properties": { "name": "B1", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 713117.528148846817203, 9888714.464677967131138 ] } },
+{ "type": "Feature", "properties": { "name": "B2", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 713325.997782844700851, 9888708.648159369826317 ] } },
+{ "type": "Feature", "properties": { "name": "B2", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 713310.797367345890962, 9888765.914136918261647 ] } },
+{ "type": "Feature", "properties": { "name": "B3", "kind": "median_shoreline" }, "geometry": { "type": "Point", "coordinates": [ 713618.549669550731778, 9888783.97995444945991 ] } },
+{ "type": "Feature", "properties": { "name": "B3", "kind": "vegetation" }, "geometry": { "type": "Point", "coordinates": [ 713610.684177258517593, 9888827.235913913697004 ] } }
+]
+}

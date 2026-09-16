@@ -13,7 +13,12 @@ dependencies:
   - ipykernel
   - laspy
   - rasterio
+<<<<<<< HEAD
+  - pip
+  - pytz
+=======
   -pip
+>>>>>>> main
   - pip:
     - loess          # Cappellari (2013) loess_1d / loess_2d — pip only
     - bluemath-tk    # Bluemath (2023) bluemath-tk — pip only
