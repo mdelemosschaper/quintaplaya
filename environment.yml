@@ -22,3 +22,4 @@ dependencies:
     - py4dgeo        # point cloud change detection: M3C2, registration, 4D OBC
     - pooch          # test-data download helper used by py4dgeo's own tutorials
     - jupyter        # notebook server support (ipykernel above is also required)
+    - copernicusmarine 
