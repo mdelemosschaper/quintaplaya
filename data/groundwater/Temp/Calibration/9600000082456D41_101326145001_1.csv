@@ -1,0 +1,73 @@
+﻿DatalogID:; ;9600000082456D41_101326145001_1
+Custom DatalogID:;;N/A
+Device Part Number:;;DS1922L
+Device Serial Number:;;*9600000082456D41
+Mission in Progress?:;;FALSE
+SUTA Mission?:;;N/A
+Waiting for Temperature Alarm?:;;FALSE
+sample rate:;;30 Second(s)
+Mission Start Time:;;2026-10-13 08:50:01 UTC-06:00
+Roll Over Enabled?;;ONWAAR
+Mission Sample Count:;;47
+Device Sample Count:;;9208
+Data Unit:;;degrees C
+Data Logging:;;0.0625
+Data alarm high threshold:;;Disabled
+Data alarm low threshold:;;Disabled
+user:;;N/A
+time stamp:;;N/A
+reason for signing:;;N/A
+user:;;N/A
+time stamp:;;N/A
+reason for signing:;;N/A
+21 CFR Part 11 Summary:;;N/A
+;;
+Date;Time;Value
+2026-10-13;08:50:01;26.0625
+2026-10-13;08:50:31;26.0625
+2026-10-13;08:51:01;26.0625
+2026-10-13;08:51:31;26.0625
+2026-10-13;08:52:01;26.0625
+2026-10-13;08:52:31;26.0625
+2026-10-13;08:53:01;26.125
+2026-10-13;08:53:31;26.125
+2026-10-13;08:54:01;26.1875
+2026-10-13;08:54:31;26.1875
+2026-10-13;08:55:01;26.25
+2026-10-13;08:55:31;26.25
+2026-10-13;08:56:01;26.25
+2026-10-13;08:56:31;26.3125
+2026-10-13;08:57:01;26.3125
+2026-10-13;08:57:31;26.3125
+2026-10-13;08:58:01;26.375
+2026-10-13;08:58:31;26.375
+2026-10-13;08:59:01;26.4375
+2026-10-13;08:59:31;26.4375
+2026-10-13;09:00:01;26.5
+2026-10-13;09:00:31;26.5625
+2026-10-13;09:01:01;26.5625
+2026-10-13;09:01:31;26.625
+2026-10-13;09:02:01;26.625
+2026-10-13;09:02:31;26.625
+2026-10-13;09:03:01;26.6875
+2026-10-13;09:03:31;26.6875
+2026-10-13;09:04:01;26.6875
+2026-10-13;09:04:31;26.6875
+2026-10-13;09:05:01;26.6875
+2026-10-13;09:05:31;26.6875
+2026-10-13;09:06:01;26.6875
+2026-10-13;09:06:31;26.6875
+2026-10-13;09:07:01;26.6875
+2026-10-13;09:07:31;26.625
+2026-10-13;09:08:01;26.625
+2026-10-13;09:08:31;26.5625
+2026-10-13;09:09:01;26.5
+2026-10-13;09:09:31;26.4375
+2026-10-13;09:10:01;26.375
+2026-10-13;09:10:31;26.3125
+2026-10-13;09:11:01;26.25
+2026-10-13;09:11:31;26.1875
+2026-10-13;09:12:01;26.125
+2026-10-13;09:12:31;26.0625
+2026-10-13;09:13:01;26
+"{""version"":""3.8.0"",""fileType"":""iButton""}";;"{""sample_rate"":30,""start_timestamp"":""2026-10-13 08:50:01 UTC-06:00"",""mission_delay"":0,""model_number"":""DS1922L"",""serial_number"":""9600000082456D41"",""unit_type"":""temperature"",""temperature_scale"":""Celsius"",""device_name"":null,""study_name"":null,""study_notes"":null,""studyId"":""9600000082456D41144514131026"",""start_raw_signature"":null,""stop_raw_signature"":null,""started_raw_signature"":null,""stopping_raw_signature"":null,""deviceMissionParametersObj"":{""version"":1,""crc"":42,""missionParameters"":{""clock"":{""sampleRate"":30,""highSpeedSampling"":true},""log"":{""startDelay"":0,""rollover"":false,""startOnAlarm"":false},""alarm"":{""lowAlarm"":false,""highAlarm"":false,""lowAlarmThreshold"":-41,""highAlarmThreshold"":-41},""device"":{""resolution"":""0.0625""}}},""deviceDownloadData"":{""sampleRate"":""30 Second(s)"",""tempLoggingFormat"":""0.0625"",""tempLowAlarmThreshold"":""Disabled"",""tempHighAlarmThreshold"":""Disabled"",""dataLoggingFormat"":""Disabled"",""dataLowAlarmThreshold"":""Disabled"",""dataHighAlarmThreshold"":""Disabled"",""missionDelay"":0,""suta"":false,""wfta"":""FALSE"",""rollOver"":false,""missionSampleCount"":47,""deviceSampleCount"":9208},""dataInfoObj"":{""firstSampleTimestamp"":""2026-10-13 14:50:01 UTC+00:00"",""missionSampleCount"":47,""deviceSampleCount"":9208,""min"":26,""max"":26.6875,""location"":null,""version"":1,""crc"":3381323965},""devicePermissionSignature"":""3066023100DEEFE4B68F11CA659FC9847627B35CF3C8BACD586D3D62A0E145A2D5C2E01A52FF0F5DC6C713565E660ECAA992C0E9FD0231009FBBB2D7DC4E9C171E31B392B878F504967E51CB5B9BC8B9E9C239DE876A391B6AF3241AD83D65B048044A902D8ECCD9"",""devicePermissionOriginalMessage"":""9600000082456D4100002148CD33FE4500002CC0A00101"",""signatureErrors"":""N/A"",""datalogErrorInfo"":{""dataErrors"":[],""errorLog"":[],""counterLog"":[]}}"
