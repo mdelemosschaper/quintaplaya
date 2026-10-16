@@ -1,0 +1,7 @@
+month,sla_fc_mean,sla_fc_sd,sla_fc_p025,sla_fc_p16,sla_fc_p84,sla_fc_p975,n_models,rank1,rank2,rank3,rank4,rank5
+2026-09,0.30331132,0.03121947,0.2588759,0.27188188,0.3456699,0.36534685,5,ecmwf_seas5,uk_metoffice,cmcc,meteo_france,gem52_nemo
+2026-10,0.2973592,0.03946884,0.22682568,0.25175655,0.3385575,0.36607543,5,ecmwf_seas5,uk_metoffice,cmcc,meteo_france,gem52_nemo
+2026-11,0.2886544,0.043456417,0.20692344,0.24097332,0.33282438,0.3686054,5,ecmwf_seas5,uk_metoffice,cmcc,gem52_nemo,meteo_france
+2026-12,0.27158666,0.039314587,0.19172852,0.23456752,0.30921578,0.35033384,5,ecmwf_seas5,uk_metoffice,cmcc,gem52_nemo,meteo_france
+2027-01,0.21689226,0.04821813,0.11755142,0.1692334,0.2642245,0.30778337,5,ecmwf_seas5,uk_metoffice,cmcc,gem52_nemo,meteo_france
+2027-02,0.14098564,0.048254903,0.045909848,0.088952616,0.1891014,0.22941643,5,ecmwf_seas5,uk_metoffice,cmcc,gem52_nemo,meteo_france
